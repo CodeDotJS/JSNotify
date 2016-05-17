@@ -13,6 +13,6 @@ function pushAPI() {
   });
 
   notification.onclick = function () {
-    window.open('https://github.com/CodeDotJS/); // change the link and put something else of your own.  
+    window.open('https://github.com/CodeDotJS/'); // change the link and put something else of your own.  
   };
 }
